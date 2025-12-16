@@ -1,0 +1,1 @@
+This repository contains a hand/arm detection module used to detect potential breaking or forced-entry actions. The LINE_START and LINE_END coordinates define a reference line (x,y pairs) and can be configured via the application UI by adding assets.
